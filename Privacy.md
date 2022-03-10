@@ -1,4 +1,4 @@
-# OpenRec Privacy Policy
+# OpenWithWhatsApp Privacy Policy
 This privacy policy governs your use of the software application OpenWithWhatsApp for mobile devices that was created by [parveshnarwal](https://github.com/parveshnarwal).
 
 ## Data collected by us
