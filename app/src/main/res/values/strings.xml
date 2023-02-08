@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">Open With WhatsApp…</string>
+    <string name="app_name">OPEN IN WHATSAPP</string>
     <string name="code">Code</string>
     <string name="enter_mobile_number">0000000000</string>
-    <string name="open_with_whatsapp">Open With WhatsApp</string>
     <string name="country_code_sample">+91</string>
+    <string name="pls_enter_pn">Please enter phone number</string>
+    <string name="pls_enter_cc">Please enter country code</string>
 </resources>
